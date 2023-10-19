@@ -300,12 +300,12 @@ return [
         //     'type'         => 'fullscreen-widget',
         //     'topnav_right' => true,
         // ],
-        ['header' => 'Administration'],
-        [
-            'text' => 'Users',
-            'url' => 'admin/users',
-            'icon' => 'fas fa-fw fa-user',
-        ],
+//        ['header' => 'Administration'],
+//        [
+//            'text' => 'Users',
+//            'url' => 'admin/users',
+//            'icon' => 'fas fa-fw fa-user',
+//        ],
         // Sidebar items:
         ['header' => 'GIS'],
         [
@@ -313,11 +313,11 @@ return [
             'url' => 'map',
             'icon' => 'fas fa-fw fa-map',
         ],
-        [
-            'text' => 'Data',
-            'url' => 'upload/json',
-            'icon' => 'fas fa-fw fa-database',
-        ],
+//        [
+//            'text' => 'Data',
+//            'url' => 'upload/json',
+//            'icon' => 'fas fa-fw fa-database',
+//        ],
         [
             'text' => 'About',
             'url' => 'about',
