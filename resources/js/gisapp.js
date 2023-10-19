@@ -73,6 +73,7 @@ const overlay = new Overlay({
 function asyncMap(kelas = "10") {
     $.ajax({
         url: "http://143.198.82.250/api/map/search" , type: "POST",dataType:"json", data: {
+            _token: $('meta[name="csrf-token"]').attr('content'),
             kelas: kelas
         }, success: function (data) {
             map.getLayers().getArray().forEach(function (layer) {

@@ -2,7 +2,6 @@
 
 @section('plugins.Select2', true)
 
-
 @section('content_header')
     <div class="row d-flex justify-content-between m-1">
         <h1 class="text-bold text-info">Geographic</h1>
