@@ -1,0 +1,22 @@
+{
+  "resources/css/style.css": {
+    "file": "assets/style-c156b9da.css",
+    "isEntry": true,
+    "src": "resources/css/style.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c75e0372.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/gisapp.js": {
+    "file": "assets/gisapp-62e6b8c4.js",
+    "isEntry": true,
+    "src": "resources/js/gisapp.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-041e359a.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
